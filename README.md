@@ -6,23 +6,23 @@ Nggambar adalah software berbasis desktop yang dibuat sebagai re-make dari softw
 Pada software Nggambar terdapat beberapa fitur yang mendukung untuk melakukan proses menggabar :
 * file \
 ![screenshot](file.PNG)
-* shapes
+* shapes \
 ![screenshot](shape.PNG)
-* draw
+* draw\
 ![screenshot](draw.PNG)
-* line
+* line\
 ![screenshot](line.PNG)
-* color
+* color\
 
-* move
+* move\
 ![screenshot](move.PNG)
-* preview
+* preview\
 * ![screenshot](prev.PNG)
-* layar untuk menampilkan posisi krusor
+* layar untuk menampilkan posisi krusor\
 ![screenshot](posi.PNG)
-* tools
+* tools\
 ![screenshot](tools.PNG)
-* rotation
+* rotation\
 ![screenshot](rotate.PNG)
 
 ## Screenshoot
