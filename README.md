@@ -1,6 +1,6 @@
 # Nggambar
 
-Nggambar adalah software berbasis desktop yang dibuat sebagai re-make dari software Paint. Software ini dibuat dengan Lazarus.
+Nggambar adalah software berbasis desktop yang dibuat sebagai re-make dari software Paint. Software ini dibuat dengan Lazarus, menggunakan bahasa pemrograman Pascal.
 
 ## Fitur
 Pada software Nggambar terdapat beberapa fitur yang mendukung untuk melakukan proses menggabar :
