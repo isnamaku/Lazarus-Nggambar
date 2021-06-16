@@ -22,6 +22,7 @@ Pada software Nggambar terdapat beberapa fitur yang mendukung untuk melakukan pr
 ## Catatan 
 Software ini masih sangat mungkin dikembangkan, berikut beberapa hal yang kami pikirkan untuk dapat dikembangkan :
 * Fungsi drag and drop
+* Aksi (translasi, rotasi, dll) pada gambar dinamis
 * Penambahan brush pada line
 * Penambahan bentuk pada shapes
 * Pengembangan menjadi software yang dapat memproses gambar 3D
